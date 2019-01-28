@@ -8,7 +8,7 @@ https://www.kaggle.com/c/home-data-for-ml-course (Class for Learn Users)<br>
  Kaggle에서 주관하는 competition 중 보스톤 주택 가격 데이터를 활용하여 test set의 가격을 예측하는 문제입니다. Advanced Regression Class 에서는 약 상위 14%, Class for Learn Users 에서는 상위 2%의 grade를 받았습니다.
  
  ## Abstarct
- Boston Housing dataset을 활용하여 각 주택의 최종 가격을 예측해야 합니다. 주택의 거의 모든 부분을 설명해주는 79가지 변수를 활용해 데이터를 분석하고, 모델을 만들어 예측을 해야합니다. 데이터 분석, 마이닝, 전처리부터 모델 선택, 학습 및 예측까지 모든 코드를 담고 있습니다. 코드는 전부 python으로 작성되었습니다.
+ Boston Housing dataset을 활용하여 각 주택의 최종 가격을 예측해야 합니다. 주택의 거의 모든 부분을 설명해주는 79가지 변수를 활용해 데이터를 분석하고, 모델을 만들어 예측을 해야합니다. 1500개의 train data set를 학습하여 1500개의 test data set을 예측합니다. 데이터 분석, 마이닝, 전처리부터 모델 선택, 학습 및 예측까지 모든 코드를 담고 있습니다. 코드는 전부 python으로 작성되었습니다.
  
  ## Data analysis, mining, preprocessing
  - 데이터 시각화 및 분석

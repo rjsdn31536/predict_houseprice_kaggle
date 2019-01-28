@@ -1,7 +1,7 @@
 # House price predict in Kaggle Competition
 - - -
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques (Advanced Regression Class)<br>
-https://www.kaggle.com/c/home-data-for-ml-course (Class for Learn Users)
+https://www.kaggle.com/c/home-data-for-ml-course (Class for Learn Users)<br>
 ![](./img/readme1.png)
 ![](./img/readme2.png)
 
